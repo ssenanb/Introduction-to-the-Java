@@ -47,7 +47,6 @@ public class TasKagitMakas{
 		else if(pc_secim == 3)
 			System.out.println("bilgisayar MAKAS dedi,berabere");
 			}
-
 		}
 	}
 }
